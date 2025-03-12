@@ -14,7 +14,10 @@ Manually extract key financial data from 10-K filings of Microsoft, Tesla, and A
 
 🛠 Steps Followed:
 
-✔ Extracted key financial figures (Total Revenue, Net Income, Total Assets, Total Liabilities, Cash Flow from Operating Activities) from SEC EDGAR database.✔ Organized data in an Excel sheet for structured analysis.✔ Loaded data into Jupyter Notebook using Pandas.✔ Performed trend analysis by calculating Year-over-Year (YoY) changes.✔ Summarized findings with Markdown explanations.✔ Exported final report as a PDF/HTML for submission.
+✔ Extracted key financial figures (Total Revenue, Net Income, Total Assets, Total Liabilities, Cash Flow from Operating Activities) from SEC EDGAR database.
+✔ Organized data in an Excel sheet for structured analysis.✔ Loaded data into Jupyter Notebook using Pandas.
+✔ Performed trend analysis by calculating Year-over-Year (YoY) changes.✔ Summarized findings with Markdown explanations.
+✔ Exported final report as a PDF/HTML for submission.
 
 🤖 Task 2: AI-Powered Financial Chatbot
 
@@ -24,4 +27,7 @@ Develop a simple AI chatbot prototype that responds to predefined financial quer
 
 🛠 Steps Followed:
 
-✔ Designed chatbot logic using rule-based responses for predefined financial queries.✔ Prepared chatbot responses based on financial analysis.✔ Developed chatbot using Python with basic if-else logic.✔ Tested chatbot interactions with sample queries.✔ Created documentation explaining chatbot functionality.✔ Packaged and submitted Python script & supporting files.
+✔ Designed chatbot logic using rule-based responses for predefined financial queries.
+✔ Prepared chatbot responses based on financial analysis.✔ Developed chatbot using Python with basic if-else logic.
+✔ Tested chatbot interactions with sample queries.✔ Created documentation explaining chatbot functionality.
+✔ Packaged and submitted Python script & supporting files.
